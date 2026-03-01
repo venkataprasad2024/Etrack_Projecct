@@ -1,4 +1,4 @@
-Etrack - a Property Management System
+Etrack Property Management System
 Overview
 eTrack is a comprehensive Property Management System designed for educational institutions to efficiently track and manage electrical assets across campus facilities. The system supports inventory management, real-time status tracking, defect reporting, and automated notifications, ensuring seamless operations for administrators, floor in-charges, and students. Key features include barcode scanning, dynamic floor management, and a student complaint interface for reporting issues with devices like monitors, keyboards, and air conditioners.
 Features
